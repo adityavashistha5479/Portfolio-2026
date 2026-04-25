@@ -6,12 +6,17 @@ const Skills: React.FC = () => {
     {
       icon: <Code className="text-blue-400" size={24} />,
       title: 'Frontend Development',
-      skills: ['React', 'Next.js', 'TypeScript', 'JavaScript', 'HTML5', 'CSS3', 'Tailwind CSS']
+      skills: ['Next.js', 'React', 'TypeScript', 'Tailwind CSS', 'Angular', 'Vue.js']
+    },
+    {
+      icon: <Smartphone className="text-purple-400" size={24} />,
+      title: 'AI & Machine Learning',
+      skills: ['OpenAI API', 'LangChain', 'RAG', 'Vector DBs (FAISS)', 'Prompt Engineering', 'FastAPI']
     },
     {
       icon: <Database className="text-green-400" size={24} />,
       title: 'Backend Development',
-      skills: ['Node.js', 'Express.js', 'Python', 'Java', 'MongoDB', 'MySQL', 'SQL']
+      skills: ['Node.js', 'Golang', 'Python', 'PostgreSQL', 'Firebase', 'Redis']
     },
     {
       icon: <Cloud className="text-purple-400" size={24} />,

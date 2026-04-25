@@ -24,8 +24,8 @@ const Contact: React.FC = () => {
     {
       icon: <ExternalLink className="text-green-400" size={24} />,
       label: 'Portfolio',
-      value: 'aditya-vashistha-portfolio.netlify.app',
-      href: 'https://aditya-vashistha-portfolio.netlify.app/'
+      value: 'adityavashistha.netlify.app',
+      href: 'https://adityavashistha.netlify.app/'
     }
   ];
 

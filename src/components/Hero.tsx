@@ -17,12 +17,12 @@ const Hero: React.FC = () => {
           </h1>
           
           <p className="text-xl md:text-2xl text-gray-300 mb-4 animate-fade-in-up">
-            Software Engineer (SDE-2) at Classplus
+            Senior Full Stack Developer & Applied AI Engineer
           </p>
           
           <p className="text-lg text-gray-400 mb-8 max-w-2xl mx-auto animate-fade-in-up delay-200">
-            Passionate about creating innovative solutions with modern technologies. 
-            Specialized in full-stack development, cloud computing, and building scalable applications.
+            Specializing in building ultra-low latency AI agents, high-performance RAG systems, 
+            and scalable enterprise web applications. Currently pushing the boundaries of Applied AI at Welocalize.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 animate-fade-in-up delay-300">

@@ -4,28 +4,28 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: 'Food Ordering Platform',
-      description: 'A comprehensive food ordering application with real-time order tracking, payment integration, and user authentication.',
-      tech: ['React', 'Node.js', 'MongoDB', 'Socket.io', 'Stripe'],
-      liveUrl: 'https://foodorder5479.web.app/',
-      githubUrl: '#',
-      gradient: 'from-orange-500 to-red-600'
+      title: 'Smart Scheduler AI Agent',
+      description: 'A voice-enabled AI assistant using OpenAI Realtime API and FastAPI. Features ultra-low latency (<500ms) and direct Google Calendar integration.',
+      tech: ['Python', 'FastAPI', 'OpenAI Realtime API', 'WebSockets', 'React', 'TypeScript'],
+      liveUrl: 'https://github.com/adityavashistha5479/smart-scheduler-ai-agent',
+      githubUrl: 'https://github.com/adityavashistha5479/smart-scheduler-ai-agent',
+      gradient: 'from-blue-600 to-indigo-700'
+    },
+    {
+      title: 'AI Knowledge Engine',
+      description: 'Sophisticated RAG system for querying PDFs with semantic search, streaming responses, and source-grounded answers.',
+      tech: ['LangChain', 'FAISS', 'OpenAI', 'Next.js', 'PostgreSQL'],
+      liveUrl: '#',
+      githubUrl: 'https://github.com/adityavashistha5479',
+      gradient: 'from-purple-600 to-pink-600'
     },
     {
       title: 'CryptoBuddy',
       description: 'Cryptocurrency tracking and portfolio management application with real-time market data and analytics.',
       tech: ['React', 'TypeScript', 'Chart.js', 'CoinGecko API', 'Firebase'],
       liveUrl: 'https://cryptobuddy5479.web.app/',
-      githubUrl: '#',
-      gradient: 'from-blue-500 to-purple-600'
-    },
-    {
-      title: 'Shopping Heaven',
-      description: 'E-commerce platform with advanced filtering, cart management, and secure payment processing.',
-      tech: ['React', 'Redux', 'Node.js', 'Express', 'PostgreSQL'],
-      liveUrl: 'https://shopping-heaven.netlify.app/',
-      githubUrl: '#',
-      gradient: 'from-green-500 to-teal-600'
+      githubUrl: 'https://github.com/adityavashistha5479',
+      gradient: 'from-cyan-500 to-blue-600'
     }
   ];
 

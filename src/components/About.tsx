@@ -13,11 +13,11 @@ const About: React.FC = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div className="space-y-6">
               <p className="text-lg text-gray-300 leading-relaxed">
-                I'm a passionate Software Engineer with a strong foundation in computer science and a love for creating innovative solutions. Currently working at Classplus as a SDE-2, I specialize in full-stack development and modern web technologies.
+                I'm a Senior Full Stack Developer and Applied AI Engineer with over 4.5 years of experience building scalable systems. Currently at Welocalize, I lead the development of intelligent agents and high-performance web applications.
               </p>
               
               <p className="text-lg text-gray-300 leading-relaxed">
-                My journey in software development has led me to work with various technologies, from frontend frameworks to backend systems, always striving to deliver high-quality, scalable solutions that make a real impact.
+                My expertise lies in bridging the gap between cutting-edge AI (LLMs, RAG, Real-time voice) and robust enterprise software. I've optimized core web vitals by 35%+ for platforms with millions of users and built AI agents with sub-500ms latency.
               </p>
 
               <div className="flex flex-wrap gap-4 pt-4">
@@ -51,9 +51,9 @@ const About: React.FC = () => {
                   <h3 className="text-xl font-semibold">Current Role</h3>
                 </div>
                 <div>
-                  <h4 className="font-medium text-gray-200">Software Engineer (SDE-2)</h4>
-                  <p className="text-purple-400">Classplus</p>
-                  <p className="text-gray-400">October 2024 - Present</p>
+                  <h4 className="font-medium text-gray-200">Senior Software Engineer</h4>
+                  <p className="text-purple-400">Welocalize</p>
+                  <p className="text-gray-400">July 2025 - Present</p>
                 </div>
               </div>
             </div>

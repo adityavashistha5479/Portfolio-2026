@@ -4,39 +4,51 @@ import { Calendar, MapPin, Building } from 'lucide-react';
 const Experience: React.FC = () => {
   const experiences = [
     {
-      company: 'Classplus',
-      position: 'Software Development Engineer 2 – Web (SDE‑2)',
+      company: 'Welocalize',
+      position: 'Senior Software Engineer (SDE-3)',
       location: 'Noida, India',
-      period: 'Oct 2024 – Present',
+      period: 'July 2025 – Present',
       description: [
-        'Lead frontend engineer for testbook.com/en‑us; built the portal from scratch in React, Next.js, and Tailwind with full SSR & SEO support',
-        'Containerized and deployed the micro‑frontend on GCP using Docker and Jenkins CI/CD pipelines',
-        'Optimised bundle size and Core Web Vitals, improving LCP by 35%',
-        'Awarded “Rockstar Rookie” (Jan 2025) for delivering ahead of schedule'
+        'Architecting scalable backend services using Golang and high-performance frontends with Next.js/Vue.js',
+        'Leading the integration of Applied AI solutions, including ultra-low latency voice agents and RAG-based systems',
+        'Designing and deploying cloud-native infrastructure on AWS with automated CI/CD pipelines',
+        'Collaborating with global teams to deliver production-ready features for enterprise clients'
+      ]
+    },
+    {
+      company: 'Classplus',
+      position: 'Software Development Engineer 2 – Web (SDE-2)',
+      location: 'Noida, India',
+      period: 'Oct 2024 – March 2025',
+      description: [
+        'Lead frontend engineer for testbook.com/en-us; built the portal from scratch in React, Next.js, and Tailwind with full SSR & SEO support',
+        'Containerized and deployed the micro-frontend on GCP using Docker and Jenkins CI/CD pipelines',
+        'Optimised bundle size and Core Web Vitals, improving LCP by 35%',
+        'Awarded “Rockstar Rookie” (Jan 2025) for delivering ahead of schedule'
       ]
     },
     {
       company: 'Tata Consultancy Services (TCS)',
       position: 'Software Engineer',
       location: 'Delhi, India',
-      period: 'Jun 2023 – Sep 2024',
+      period: 'Jun 2023 – Sep 2024',
       description: [
-        'Modernised Government e‑Marketplace (GeM), India’s largest e‑commerce platform',
-        'Implemented Angular & React performance optimisations, reducing initial load time by 40%',
-        'Integrated RESTful Node.js APIs to streamline buyer‑seller workflows',
-        'Recognised as “Star Performer” (Feb 2024) for outstanding contribution'
+        'Modernised Government e-Marketplace (GeM), India’s largest e-commerce platform',
+        'Implemented Angular & React performance optimisations, reducing initial load time by 40%',
+        'Integrated RESTful Node.js APIs to streamline buyer-seller workflows',
+        'Recognised as “Star Performer” (Feb 2024) for outstanding contribution'
       ]
     },
     {
       company: 'Accenture',
       position: 'Associate Software Engineer',
       location: 'Gurgaon, India',
-      period: 'Aug 2021 – May 2023',
+      period: 'Aug 2021 – May 2023',
       description: [
         'Developed responsive React and Angular modules adhering to WCAG accessibility guidelines',
         'Built and maintained Node.js/Express services, boosting feature turnaround times',
-        'Collaborated with UX teams via Figma to translate wireframes into pixel‑perfect UIs',
-        'Ensured cross‑browser compatibility and achieved 95% unit‑test coverage'
+        'Collaborated with UX teams via Figma to translate wireframes into pixel-perfect UIs',
+        'Ensured cross-browser compatibility and achieved 95% unit-test coverage'
       ]
     }
   ];
