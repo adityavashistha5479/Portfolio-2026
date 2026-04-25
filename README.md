@@ -1,5 +1,7 @@
 # Aditya Vashistha | Senior Full Stack Developer & Applied AI Engineer 🚀
 
+[![Live Portfolio](https://img.shields.io/badge/Live-Portfolio-blue?style=for-the-badge&logo=netlify)](https://adityavashistha.netlify.app/)
+
 Welcome to my portfolio! I am a **Senior Software Engineer (SDE-3)** with over 4.5 years of experience specialized in building scalable enterprise applications and high-performance Applied AI systems.
 
 ## 🛠️ Core Expertise
